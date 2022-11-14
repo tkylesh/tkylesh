@@ -17,3 +17,10 @@
 ...You can indent
 
 [I'm an inline-style link](https://www.google.com)
+
+**BOLD**
+*Italic*
+***bold and italicized***
+
+This is not a quote
+> This is a quote
